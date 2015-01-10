@@ -1,2 +1,3 @@
 # hello-world
-just test
+Hi, people!
+to be or not to be
